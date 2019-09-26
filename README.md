@@ -1,2 +1,2 @@
-# sayo_makinwa_1858908_nlp19hw2
-
+# GenSim Word Sense Embeddings
+Full description will be updated shortly. Meanwhile, feel free to peruse the code and read the report
