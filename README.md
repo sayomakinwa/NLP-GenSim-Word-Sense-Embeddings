@@ -67,4 +67,6 @@ And then the spearman correlation:
 Spearman([7.35, 7.46, 7.62], [0.452, 0.784, 0.643]) = 0.5
 ```
 
+The word similarity task is implemented in `code/score.py` and only the `spearman()` function needs to be called with path to the test dataset and the path to the saved sense embeddings.
+
 See how all the parts are work together in [the notebook](code/unigrams_only_notebook.ipynb)
