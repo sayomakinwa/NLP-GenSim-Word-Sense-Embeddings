@@ -11,7 +11,7 @@ The image below is a graphical representation of the full pipeline of this imple
 
 [Read the report here](report.pdf)
 
-This project was done as part of a graduate degree NLP course with Prof. Navigli (BabelNet) at Sapienza University of Rome and was graded as very good.
+This project was done as part of a graduate degree NLP course with [Prof. Navigli](http://wwwusers.di.uniroma1.it/~navigli/) ([BabelNet](https://babelnet.org/)) at Sapienza University of Rome and was graded as very good.
 
 
 ## How to train
