@@ -21,7 +21,7 @@ This repo contains an already trained sense embeddings `resources/embeddings.vec
 To train, download [the EuroSense corpora](http://lcl.uniroma1.it/eurosense/) (it's large!), extract it, then follow the code in [the notebook](code/unigrams_only_notebook.ipynb) in the `/code` folder (don't forget to consolidate the paths to correspond with the new paths).
 
 Training consists of parsing and preprocessing the corpora, and training the embeddings using [GenSim's Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html) (requires the installation of GenSim). 
-The code to preprocess is the `parse()` function in `code/corpora.py`. The function both extracts the sentences in the xml corpora and preprocesses it. The usage is as follows:
+The code to preprocess is the `parse()` function in `code/corpora.py`. The function both extracts the sentences in the xml corpora and preprocesses them. The usage is as follows:
 
 ```
 from corpora import *
