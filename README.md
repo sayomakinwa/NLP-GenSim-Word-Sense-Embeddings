@@ -52,7 +52,8 @@ book		paper 		7.46
 computer	keyboard 	7.62
 ```
 The task consists of two parts; computing the cosine similarities between every pairs of words in the dataset, and computing the spearman correlation between the gold similarity scores and the cosine similarity scores. The algorithm for computing the cosine similarities is as follows:
-![](images/word_similarity_algorithm.jpg)
+
+<img src="images/word_similarity_algorithm.jpg" width="350">
 
 We end up getting something like:
 ```
