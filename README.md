@@ -1,4 +1,4 @@
-# GenSim Word Sense Embeddings
+# NLP GenSim Word Sense Embeddings
 
 This project implements the paper [SensEmbed: Learning Sense Embeddings for Word and Relational Similarity](https://www.aclweb.org/anthology/P15-1010/).
 The task is as follows:
